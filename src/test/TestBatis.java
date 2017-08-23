@@ -42,5 +42,9 @@ public class TestBatis {
         session.commit();
 
     }
+    @Test
+    public void test02(){
+        System.out.println("哈哈哈哈哈");
+    }
 
 }
