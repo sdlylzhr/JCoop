@@ -40,6 +40,7 @@ public class TestBatis {
         System.out.println(student);
         //我在这写的
         System.out.println("3333333");
+        System.out.println("22222");
 
         session.commit();
 
