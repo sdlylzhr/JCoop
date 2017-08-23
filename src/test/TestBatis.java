@@ -17,7 +17,7 @@ public class TestBatis {
 
     @Test
     public void test01() throws IOException {
-
+//6666666666666666666666666666666666666666666
         InputStream stream = Resources.getResourceAsStream("batis-config.xml");
 
         SqlSessionFactory factory = new SqlSessionFactoryBuilder().build(stream);
