@@ -41,6 +41,11 @@ public class TestBatis {
 
         session.commit();
 
+        // 啊啊啊啊
+        System.out.println("测试001");
+
+
+
     }
 
 }
