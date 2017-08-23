@@ -38,6 +38,8 @@ public class TestBatis {
         Integer i = mapper.insertNewStudent(student);
 
         System.out.println(student);
+        //6666
+        System.out.println("走啊,抢太平洋去啊");
 
         session.commit();
 
