@@ -40,6 +40,8 @@ public class TestBatis {
         System.out.println(student);
 
         session.commit();
+        
+        //冷死我了啊啊啊啊啊
 
     }
 
