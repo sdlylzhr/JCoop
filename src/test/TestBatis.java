@@ -41,6 +41,9 @@ public class TestBatis {
 
         session.commit();
 
+
+        // 111111
+
     }
 
 }

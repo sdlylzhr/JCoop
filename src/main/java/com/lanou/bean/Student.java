@@ -5,6 +5,9 @@ package com.lanou.bean;
  */
 public class Student {
 
+
+    //****//
+
     private Integer id;
     private String name;
     private String sex;
